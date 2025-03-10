@@ -15,7 +15,7 @@ A simple **Body Mass Index (BMI) Calculator** built using **HTML, CSS, and JavaS
 
 ## 🖥️ Demo  
 
-🔗 **Live Preview**: [Your GitHub Pages Link]
+🔗 **Live Preview**: [(https://abhaygill.github.io/BMI-Calculator/)]
 
 ---
 
